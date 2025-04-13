@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>purple.png</file>
+        <file>../../../../../Users/MVVP/Downloads/image.jpg</file>
+    </qresource>
+</RCC>
